@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{917584ED-FC83-44E5-BACE-231FC670444B}|clientmode\\clientmode.vcxproj|V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\clientmode\\clientmode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{917584ED-FC83-44E5-BACE-231FC670444B}|clientmode\\clientmode.vcxproj|solutionrelative:clientmode\\clientmode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CB4031-DF91-8DB1-0BF4-7C574BD7BA1D}|priority_driver\\priority_driver.vcxproj|V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\priority_driver\\priority.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84CB4031-DF91-8DB1-0BF4-7C574BD7BA1D}|priority_driver\\priority_driver.vcxproj|solutionrelative:priority_driver\\priority.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "priority.cpp",
+              "DocumentMoniker": "V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\priority_driver\\priority.cpp",
+              "RelativeDocumentMoniker": "priority_driver\\priority.cpp",
+              "ToolTip": "V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\priority_driver\\priority.cpp",
+              "RelativeToolTip": "priority_driver\\priority.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T15:59:50.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clientmode.cpp",
+              "DocumentMoniker": "V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\clientmode\\clientmode.cpp",
+              "RelativeDocumentMoniker": "clientmode\\clientmode.cpp",
+              "ToolTip": "V:\\My_Stuff\\prog\\Micro-cuckDrivers\\priority_Driver\\priority_driver\\clientmode\\clientmode.cpp",
+              "RelativeToolTip": "clientmode\\clientmode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T18:47:59.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
