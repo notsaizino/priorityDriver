@@ -1,7 +1,9 @@
 Driver Priority Changer
 
 A simple Windows driver that lets you tweak the priority of any running process by its Process ID (PID) and Thread Number. Need to give your game a performance boost or prioritize a critical app? This driver does the trick.
-Features
+
+
+Features:
 
     1. Change thread priority for any process
 
